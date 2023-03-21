@@ -9,7 +9,7 @@
 
 **Библиотеки:** pandas, seaborn, matplotlib
 
-[Ссылка на nbviewer, так как не все объекты отоборажаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Исследование%20надежности%20заемщиков.ipynb)
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Исследование%20надежности%20заемщиков.ipynb)
 
 ## [Исследование объявлений о продаже квартир](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/Исследование%20объявлений%20о%20продаже%20квартир.ipynb)
 **Описание проекта:**
@@ -20,7 +20,7 @@
 
 **Библиотеки:** pandas, numpy, matplotlib
 
-[Ссылка на nbviewer, так как не все объекты отоборажаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Исследование%20объявлений%20о%20продаже%20квартир.ipynb)
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Исследование%20объявлений%20о%20продаже%20квартир.ipynb)
 
 ## [Анализ тарифов оператора сотовой связи](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/Анализ%20тарифов%20оператора%20сотовой%20связи.ipynb)
 **Описание проекта:**
@@ -32,7 +32,7 @@
 
 **Библиотеки:** pandas, numpy, scipy, matplotlib, seaborn, scipy
 
-[Ссылка на nbviewer, так как не все объекты отоборажаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Анализ%20тарифов%20оператора%20сотовой%20связи.ipynb)
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Анализ%20тарифов%20оператора%20сотовой%20связи.ipynb)
 
 ## [Сборный №1](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/Сборный.ipynb)
 **Описание проекта:**
@@ -41,7 +41,7 @@
 
 **Библиотеки:** pandas, numpy, scipy, matplotlib, seaborn, scipy 
 
-[Ссылка на nbviewer, так как не все объекты отоборажаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Сборный.ipynb)
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Сборный.ipynb)
 
 ## [Анализ бизнес-показателей](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/Анализ%20бизнес-показателей.ipynb)
 **Описание проекта:**
@@ -50,7 +50,7 @@
 
 **Библиотеки:** pandas,numpy, datetime, matplotlib 
 
-[Ссылка на nbviewer, так как не все объекты отоборажаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Анализ%20бизнес-показателей.ipynb)
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Анализ%20бизнес-показателей.ipynb)
 
 ## [Принятие решений в бизнесе](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/Принятие_решений_в_бизнесе.ipynb)
 **Описание проекта:**
@@ -60,7 +60,7 @@
 
 **Библиотеки:** pandas, numpy, datetime, matplotlib, scipy
 
-[Ссылка на nbviewer, так как не все объекты отоборажаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Принятие_решений_в_бизнесе.ipynb)
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Принятие_решений_в_бизнесе.ipynb)
 
 ## [Сборный 2](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/Сборный%20№2.ipynb)
 **Описание проекта:**
@@ -73,7 +73,7 @@
 
 **Библиотеки:** pandas, numpy, datetime, matplotlib, scipy, statsmodels, plotly 
 
-[Ссылка на nbviewer, так как не все объекты отоборажаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Сборный%20№2.ipynb)
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Сборный%20№2.ipynb)
 
 ## [Рынок заведений общественного питания Москвы](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/Общепит_Москвы.ipynb)
 **Описание проекта:**
@@ -84,7 +84,7 @@
 
 **Библиотеки:** pandas, matplotlib, numpy, seaborn, folium, plotly, json, plotly 
 
-[Ссылка на nbviewer, так как не все объекты отоборажаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Общепит_Москвы.ipynb)
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Общепит_Москвы.ipynb)
 
 ## [Выявление профилей потребления](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/Финал_Выявление%20профилей%20потребления.ipynb)
 **Описание проекта:**
@@ -93,7 +93,7 @@
 
 **Библиотеки:** pandas, numpy, matplotlib, plotly, plotly, seaborn, scipy 
 
-[Ссылка на nbviewer, так как не все объекты отоборажаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Финал_Выявление%20профилей%20потребления.ipynb)
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Финал_Выявление%20профилей%20потребления.ipynb)
 
 ## Проект по А/B-тестированию
 **Описание проекта:**
@@ -112,7 +112,7 @@
     
 **Библиотеки:**    
 
-[Ссылка на nbviewer, так как не все объекты отоборажаются в гитхабе]()
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе]()
 
 ## Проект по SQL
 **Описание проекта:**
@@ -124,4 +124,4 @@
 
 **Библиотеки:** pandas, sqlalchemy (create_engine)
 
-[Ссылка на nbviewer, так как не все объекты отоборажаются в гитхабе]()
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе]()
