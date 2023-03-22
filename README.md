@@ -86,7 +86,7 @@
 
 [Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Общепит_Москвы.ipynb)
 
-## [Выявление профилей потребления](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/Финал_Выявление%20профилей%20потребления.ipynb)
+## [Выявление профилей потребления](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB_%D0%92%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B5%D0%B9_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.ipynb)
 **Описание проекта:**
 
 Интернет-магазину "Пока все ещё тут" необходимо сегментировать покупателей на основе их истории покупок для разработки более персонализированных предложений для покупателей. Заказчик предоставил датасет с транзакциями своего магазина.
@@ -95,7 +95,7 @@
 
 [Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Финал_Выявление%20профилей%20потребления.ipynb)
 
-## [Проект по А/B-тестированию](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%20%D0%90%D0%91%20%D1%82%D0%B5%D1%81%D1%82%D1%8B.ipynb)
+## [Проект по А/B-тестированию](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB_%D0%90%D0%91_%D1%82%D0%B5%D1%81%D1%82%D1%8B.ipynb)
 **Описание проекта:**
 
 Наша задача — провести оценку результатов A/B-теста. В нашем распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов.
