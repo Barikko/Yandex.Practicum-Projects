@@ -73,7 +73,7 @@
 
 **Библиотеки:** pandas, numpy, datetime, matplotlib, scipy, statsmodels, plotly 
 
-[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Сборный%20№2.ipynb)
+[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%E2%84%962.ipynb)
 
 ## [Рынок заведений общественного питания Москвы](https://github.com/Barikko/Yandex.Practicum-Projects/blob/main/Общепит_Москвы.ipynb)
 **Описание проекта:**
